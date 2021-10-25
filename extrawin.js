@@ -1,0 +1,1 @@
+function extrawin()   {	msg=open("lexicon.html","_extra","toolbar=no,directories=no,resizable=yes,scrollbars=yes,menubar=no,location=no,status=no,width=320,height=240");}
